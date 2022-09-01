@@ -22,9 +22,9 @@
 
 ## Screenshots of the Application
 
-![Project with green blocks.]
-![Application with mixed blocks.]
-![Application with gray blocks.]
+![Project with green blocks.](/Assets/Workday_planner_green.png)
+![Application with mixed blocks.](/Assets/Workday_planner_mixed.png)
+![Application with gray blocks.](/Assets/Workday_planner_gray.png)
 
 ## Link to Deployed Project
 
