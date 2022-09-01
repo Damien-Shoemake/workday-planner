@@ -3,7 +3,7 @@
 ## The Task
 <br>
 
-- Create a simple calender app that will allow the user to save events for each hour of the day
+- Create a simple calender app that will allow the user to save events for each hour of the work day
 - Feature dynimcally updated HTML and CSS code by using jQuery
 - Use Moment.js library to work with date and time. 
 <br>
